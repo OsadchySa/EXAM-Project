@@ -1,6 +1,6 @@
 .total{
     width: 100vw;
-    height: 100vh;
+    height: 110vh;
     background-image: url("coffe.png");
 }
 .totalMenu{
@@ -80,10 +80,10 @@
     font-family: "Open Sans", sans-serif;
 }
 .bestOfMain{
-    width: 80vw;
+    width: 100vw;
     height: 80vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     flex-direction: row;
 }
