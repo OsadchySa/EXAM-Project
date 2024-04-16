@@ -1,3 +1,9 @@
+html{
+    scroll-behavior: smooth
+}
+a{
+    text-decoration: none;
+}
 .total{
     width: 100vw;
     height: 110vh;
