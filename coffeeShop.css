@@ -1,0 +1,89 @@
+.total{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("coffe.png");
+}
+.totalMenu{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spanCoffee{
+    color: #FF4B32;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+}
+.spanHome{
+    color: #FF4B32;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    margin-left: 10vh;
+}
+.menu{
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin-left: 10vh;
+}
+.totalInform{
+    margin-left: 120px;
+    height: 80vh;
+    width: 35vw;
+}
+.totH1{
+    color: #FFF;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+}
+.totP{
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+}
+.buttonTotal{
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    border-radius: 5px;
+    background: #FF4B32;
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+}
+.bestOfferH2{
+    color: #000;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 43px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 130%;
+    letter-spacing: 6.45px;
+    margin: 18vh 0 0 8vw;
+}
+.bestOfferP{
+    font-family: "Open Sans", sans-serif;
+}
+.bestOfMain{
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
