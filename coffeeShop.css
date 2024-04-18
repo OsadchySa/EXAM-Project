@@ -139,3 +139,8 @@ a{
     font-weight: 600;
     line-height: 130%;
 }
+.poppins{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal
+}
